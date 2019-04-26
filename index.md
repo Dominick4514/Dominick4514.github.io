@@ -1,7 +1,7 @@
 # Dominick Whitener's Homepage #
 ### Table of Contents ###
 1. [Bio Page](Bio.md)
-1. Topic Page
+1. [Topic Page](topic.md)
 
 The Follow websites consist of info of me the creator of the these websites. 
 The first link will send you to a website where you learn more about, its more so genreal information.
