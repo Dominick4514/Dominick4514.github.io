@@ -12,4 +12,4 @@ This next one was also at the BBQ, I just happened to saw it and I thought It wo
 
 ![camera](github/github/camera%20(2).jpg)
 
-[Index]
+[Index](index.md)
