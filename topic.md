@@ -10,6 +10,6 @@ This first picture is of my dog when we went out for a BBQ. We very energtic and
 
 This next one was also at the BBQ, I just happened to saw it and I thought It would be a great picture.
 
-![camera](github/github/camera%20(2).jpg)
+[![camera](github/github/camera%20(2).jpg)](github/github/camera%20(2).jpg)
 
 [Index](index.md)
